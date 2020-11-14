@@ -1,4 +1,4 @@
-# Tron-lite-game-2player
+# Tron-light-game-2player
 
 this game is made by me (AW) aka WHO, ive had no help fro others accept from some of my tutors and im very
 grateful for them helping me in this small project.
